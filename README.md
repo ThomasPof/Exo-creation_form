@@ -20,6 +20,6 @@ Aussi, utiliser l'Ajax va te permettre de croiser plusieurs technologies (html/j
 
 Pour cette dernière étape, on peut voir ensemble quand tu en sera là (il faut un serveur php, il faut écrire le php, etc...)
 
-Pour ce genre de petit formulaire, je devise 4h de taf aux clients par exemple. Le but c'est pas que tu le fasses en 4h, c'est vraiment juste à titre indicatif ;)
+Pour ce genre de petit formulaire, je devise 4h de taf aux clients par exemple. Le but c'est pas que tu le fasses en 4h, c'est vraiment juste à titre indicatif.
 
-Gâte toi maintenant :-)
+Gâte toi maintenant !
