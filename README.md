@@ -1,10 +1,10 @@
-# Objectif de l'exércice
+# Objectif de l'exercice
 
 Le but de cet exercice est de construire un formulaire fonctionnel, avec une expérience utilisateur fluide et rapide. Les formulaires se retrouvent dans la quasi totalité des sites, donc je pense que c'est une bonne base pour commencer le travail de dév.
 
 # UX/UI souhaité
 
-Il faut que le formulaire s'envoie en Ajax : je ne veux pas de rechargement de page, c'est inconfortable pour le visiteur. Il faudra penser à prévoir des messages d'erreur s'il y a un problème côté envoi, et si certains champs obligatoire ne sont pas remplis (on peut dire que tous les champs sont obligatoires)
+Il faut que le formulaire s'envoie en Ajax : je ne veux pas de rechargement de page, c'est inconfortable pour le visiteur. Il faudra penser à prévoir des messages d'erreur s'il y a un problème côté envoi, et si certains champs obligatoires ne sont pas remplis (on peut dire que tous les champs sont obligatoires pour l'exercice)
 
 # Recommandations
 
@@ -12,13 +12,14 @@ L'idéal serait que tu utilises une librairie html/css/js type bootstrap, founda
 
 Aussi, utiliser l'Ajax va te permettre de croiser plusieurs technologies (html/js/php), et de fouiller sur internet pour trouver des solutions.
 
-# Étapes que je ferai
+# Étapes que je ferais
 
 - Création de la page web et du formulaire avec html/css et la librairie souhaitée
 - Ajouter l'intéraction JS avec la soumission ajax
 - Créer le fichier php qui permet d'envoyer ce que l'ajax donne par email
+- Bonus : utiliser une API type Mailtrap pour récupérer les emails et ne pas te spammer
 
-Pour cette dernière étape, on peut voir ensemble quand tu en sera là (il faut un serveur php, il faut écrire le php, etc...)
+Pour la 3e étape, on peut voir ensemble quand tu en sera là (il faut un serveur php, il faut écrire le php, etc...)
 
 Pour ce genre de petit formulaire, je devise 4h de taf aux clients par exemple. Le but c'est pas que tu le fasses en 4h, c'est vraiment juste à titre indicatif.
 
